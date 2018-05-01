@@ -1,0 +1,10 @@
+Eingabe: Liste l der Laenge n von Zahlen zwischen 1 und k
+Ausgabe: Gibt es Duplikate von Zahlen in l
+
+
+for i := 0 .. l.length -1
+  for j := 0 .. i
+    if l[i] = l[j]
+      return true
+
+return false
