@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.10.27)  3 MAY 2018 11:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.10.27)  3 MAY 2018 12:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -629,16 +629,15 @@ Overfull \hbox (38.54478pt too wide) in paragraph at lines 61--61
  []
 
 (./DsALAbgabe3_Aufgabe1.tex) (./DsALAbgabe3_Aufgabe2.tex)
-(./DsALAbgabe3_Aufgabe3.tex
+(./DsALAbgabe3_Aufgabe3.tex [1
+
+{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 Overfull \hbox (14.11278pt too wide) in paragraph at lines 3--4
 \OT1/cmr/m/n/10 Wenn ei-ne dop-pelt ver-ket-te-te Lis-te be-nutzt wird, hat je-
 des Ele-ment einen Vorg[]anger
  []
 
-[1
-
-{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
-(./DsALAbgabe3_Aufgabe4.tex
+) (./DsALAbgabe3_Aufgabe4.tex
 Overfull \vbox (13.37082pt too high) has occurred while \output is active []
 
 
@@ -680,7 +679,7 @@ mr7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl
 10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy1
 0.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10
 .pfb>
-Output written on DsALAbgabe3.pdf (3 pages, 140501 bytes).
+Output written on DsALAbgabe3.pdf (3 pages, 142226 bytes).
 PDF statistics:
  62 PDF objects out of 1000 (max. 8388607)
  44 compressed objects within 1 object stream

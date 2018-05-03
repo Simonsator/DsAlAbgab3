@@ -4,4 +4,4 @@ Ein Baum der Höhe h hat maximal $2^{h+1}-1$ Knoten. Dies ist erreicht, wenn der
 $\Rightarrow 2^{h+1}-2^d=2^{h}-1$\\
 Da von der maximalen Anzahl an gesamt Knoten und Knoten pro Ebene ausgegangen wird folgt, dass $2^{h}-1$ die maximale Anzahl an inneren Knoten beschreibt.
 \subsection{Beweis: }
-Noch nichts.
+Preorder - und Postorder Linealisierung können nur dabei helfen, einen Teilast zu rekonstruieren. Da die Wurzel entweder am Anfang (Preorder) oder am Ende (Postorder) der Linealisierung steht, kann keine Auskunft darüber gegeben werden, auf welcher Seite sich der Teilast befindet, ob rechts oder links von der Wurzel. Bei der Inorder Linealisierung hingegen steht die Wurzel immer zwischen dem linken und rechten Teilast und ist daher essentiell zur Rekonstruktion des Baumes. Daher ist die Aussage wahr.
